@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ors3iSWiq2Is/IZAnj5qhLo3hku4I3iUUce7G8787qs6u5BK0P8UXgHbGCVFfmFw9ffvY0zKlI9GV3dV9kJkLw==",
+  "success": true,
+  "projectFilePath": "/Users/dhirendrakumar/Projects/testmyAuth/testmyAuth.csproj",
+  "expectedPackageFiles": [
+    "/Users/dhirendrakumar/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/dhirendrakumar/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/dhirendrakumar/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/dhirendrakumar/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/dhirendrakumar/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/dhirendrakumar/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
